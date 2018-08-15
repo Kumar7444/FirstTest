@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-15T01:44:57Z" name="Default suite" finished-at="2018-08-15T01:45:03Z" duration-ms="5953">
+    <groups>
+    </groups>
+    <test started-at="2018-08-15T01:44:57Z" name="Default test" finished-at="2018-08-15T01:45:03Z" duration-ms="5953">
+      <class name="FirstHomePage.TestHomePages.AppTest">
+        <test-method signature="testApp()[pri:0, instance:FirstHomePage.TestHomePages.AppTest@6e509ffa]" started-at="2018-08-15T01:44:57Z" name="testApp" finished-at="2018-08-15T01:45:03Z" duration-ms="5929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- FirstHomePage.TestHomePages.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
